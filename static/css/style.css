@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    background-color: #5d3fd3;
+    color: white;
+    padding: 10px 0;
+}
+header .navbar-brand {
+    font-weight: bold;
+}
+section {
+    padding: 60px 0;
+}
+footer {
+    background-color: #5d3fd3;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.bg-light-grey {
+    background-color: #f7f7f7;
+}
